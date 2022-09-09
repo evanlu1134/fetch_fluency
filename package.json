@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "fetch": "^1.1.0",
+    "node": "^18.9.0",
+    "node-fetch": "^3.2.10"
+  },
+  "type":"module"
+}
